@@ -9,4 +9,5 @@ A simple project to remove user-mode rootkits on Windows
 - **Targeted Process Termination**: Closes compromised host processes commonly exploited by user-mode rootkits, such as `dllhost.exe`
 
 **Note**: It is effective and has been tested against the r77 rootkit
+
 Just a simple project; I hope you like it.

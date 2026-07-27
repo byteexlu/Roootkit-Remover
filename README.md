@@ -1,4 +1,4 @@
-# Roootkit-Remover
+# Rootkit-Remover
 A simple project to remove user-mode rootkits on Windows
 
 ## Features
